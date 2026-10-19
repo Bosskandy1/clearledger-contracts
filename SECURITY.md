@@ -73,3 +73,9 @@ A security audit is planned prior to any mainnet deployment.
 
 ClearLedger is experimental software. Do not deposit real funds.
 All contracts operate on Stellar testnet with test USDC only.
+
+## Admin signer incidents
+
+See the [admin signer response runbook](docs/admin-signer-incident-response.md)
+for dependency pause sequencing, signer/ownership replacement limits, redeployment
+considerations and public-only user communications.
